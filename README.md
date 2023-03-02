@@ -8,7 +8,7 @@ Available in:
 
 To load the mesh in FreeFem++, use the code:
 
-mesh Th = readmesh("Fracture_network-mesh.msh");
+mesh Th = readmesh("Fracture_network-mesh-0.msh");
 
 
 Labels setting:
