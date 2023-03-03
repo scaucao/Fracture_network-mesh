@@ -1,9 +1,9 @@
 # Fracture_network-mesh
 This repository contains the initial mesh file for the numerical example: "Example 4: Flow through a 2D porous media with fracture network" of the work:
 
-S. Caucao and J. Esparza: An augmented mixed FEM for the convective Brinkman-Forchheimer problem: a priori and a posteriori error analysis. arXiv:[math.NA], (2023).
+S. Caucao and J. Esparza: An augmented mixed FEM for the convective Brinkman-Forchheimer problem: a priori and a posteriori error analysis. arXiv:2303.01472 [math.NA], (2023).
 
-Available in: 
+Available in: <a href="https://arxiv.org/abs/2303.01472" target="_blank">arXiv:2303.01472</a>
 
 
 To load the mesh in FreeFem++, use the code:
