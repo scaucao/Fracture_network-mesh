@@ -9,7 +9,7 @@ and
 S. Caucao, G.N. Gatica, and L.F. Gatica: A posteriori error analysis of a mixed finite element method for the stationary convective Brinkman-Forchheimer problem. Applied Numerical Mathematics, vol. 211, pp. 158-178, (2025).
 Available in DOI: <a href="https://doi.org/10.1016/j.apnum.2025.01.007" target="_blank">10.1016/j.apnum.2025.01.007</a>
 
-To load the mesh in FreeFem++, use the code:
+To load the mesh in FreeFEM, use the code:
 
 mesh Th = readmesh("Fracture_network-mesh-0.msh");
 
